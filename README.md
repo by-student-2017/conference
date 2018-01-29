@@ -1,11 +1,13 @@
 ‚±‚ÌconferenceƒtƒHƒ‹ƒ_“à‚É‚ ‚é‚à‚Ì‚ÍŠw‰ï‚ÅŒû‰‰”­•\Ï‚Ý‚Ì‚à‚Ì‚Å‚·B
 
-‹¤’˜ŽÒ‚Ì‹–‰Â‚à•K—v‚È‚½‚ß‰{——‚¾‚¯‚ª‰Â”\‚Å‚·i}‚â•¶Í‚È‚Ç‚ð‘S•”Á‚µ‚ÄŒ`Ž®‚âƒtƒH[ƒ}ƒbƒg‚Æ‚µ‚Ä—˜—p‚·‚é‚±‚Æ‚Í‚Å‚«‚é‚ÆŽv‚¢‚Ü‚·jB
+‹¤’˜ŽÒ‚Ì‹–‰Â‚à•K—v‚È‚½‚ß‰{——‚¾‚¯‚ª‰Â”\‚Å‚·B
+
+}‚â•¶Í‚È‚Ç‚ð‘S•”Á‚µ‚ÄŒ`Ž®‚âƒtƒH[ƒ}ƒbƒg‚Æ‚µ‚Ä—˜—p‚·‚é‚±‚Æ‚Í‚Å‚«‚é‚ÆŽv‚¢‚Ü‚·B
 
 Šw‰ï—p‚ÅŒû‰‰”­•\‚·‚éê‡‚ÉA‚Ç‚Ì‚æ‚¤‚ÉƒXƒ‰ƒCƒhiŒû‰‰—p‚Ì”­•\Ž‘—¿j‚ðì‚ê‚Î‚æ‚¢‚©‚ÌŽQl‚É‚µ‚Ä‚­‚¾‚³‚¢B
 
 v‚Íƒ”ƒ@[ƒWƒ‡ƒ“‚Ì‚±‚Æ‚ÅA‹¤’˜ŽÒiãŽij‚ÉŒ©‚Ä‚à‚ç‚Á‚Ä’¼‚µ‚Ä‚¢‚Ü‚·BŽ„‚Ìê‡‚Í•½‹Ï4‰ñ‚­‚ç‚¢’¼‚µ‚Ä‚¢‚Ü‚·B
-‘åŠw‰@¶‚Ì‚Æ‚«‚Í‚à‚Á‚Æ‘½‚­‚Ì‰ñ”’¼‚µ‚ª‚ ‚è‚Ü‚µ‚½B“–‘R‚È‚ª‚ç¸_‚Æ‘Ì—Í‚ÌÁ–Õ‚Í‘å‚«‚¢‚Å‚·B
+‘åŠw‰@¶‚Ì‚Æ‚«‚Í‚à‚Á‚Æ‘½‚­‚Ì‰ñ”‚Ì’¼‚µ‚ª‚ ‚è‚Ü‚µ‚½B“–‘R‚È‚ª‚ç¸_‚Æ‘Ì—Í‚ÌÁ–Õ‚Í‘å‚«‚¢‚Å‚·B
 
 ÅV”Å‚Ìƒpƒ[ƒ|ƒCƒ“ƒ^i—á‚¦‚Î2013j‚ÍƒfƒBƒtƒHƒ‹ƒg‚Å]—ˆ‚Ìƒ”ƒ@[ƒWƒ‡ƒ“‚æ‚è‚à‰¡’·‚È‚Ì‚ÅA‚±‚ê‚ç‚ÌŽ‘—¿‚ðŽQl‚É’¼‚µ‚Ä‚­‚¾‚³‚¢B
 
@@ -26,12 +28,14 @@ v‚Íƒ”ƒ@[ƒWƒ‡ƒ“‚Ì‚±‚Æ‚ÅA‹¤’˜ŽÒiãŽij‚ÉŒ©‚Ä‚à‚ç‚Á‚Ä’¼‚µ‚Ä‚¢‚Ü‚·BŽ„‚Ìê‡‚Í•½‹
 @—á‚¦‚ÎA300K ¨ 300 K‚Æ‚·‚éB‘¼‚É‚àS = 250ƒÊV/K ¨ S = 250 ƒÊV/K
 
 3. ƒXƒ‰ƒCƒh‚Ì’i‘g‚Í‹ÖŽ~
-4. Œ©‚â‚·‚¢ƒXƒ‰ƒCƒhƒTƒCƒY‚ÆƒSƒVƒbƒNƒx[ƒX‚ÌƒtƒHƒ“ƒg
+4. Œ©‚â‚·‚¢ƒXƒ‰ƒCƒhƒTƒCƒY‚ÆƒtƒHƒ“ƒg
 
 @ƒtƒHƒ“ƒgƒTƒCƒY‚Í10 m’ö“x—£‚ê‚½êŠ‚©‚çŒ©‚¦‚é’ö“x‚É‘å‚«‚­AƒXƒgƒŒƒX‚ðŠ´‚¶‚È‚¢’ö“x‚É¬‚³‚­‚·‚éi20 ptˆÈã„§B
-‚Ç‚¤‚µ‚Ä‚à¬‚³‚­‚µ‚È‚¯‚ê‚Î‚È‚ç‚È‚¢ê‡‚Í16 pt’ö“x‚Ü‚Å‚ª„§j
+‚Ç‚¤‚µ‚Ä‚à¬‚³‚­‚µ‚È‚¯‚ê‚Î‚È‚ç‚È‚¢ê‡‚Í16 pt’ö“x‚Ü‚Å‚ª„§jB
 
-@–¾’©ƒtƒHƒ“ƒg‚ÍƒXƒ‰ƒCƒhã‚Å‚ÍŒ©‚Ã‚ç‚¢ê‡‚ª‘½‚¢
+@“ú–{Œê‚Å‚ÍƒSƒVƒbƒNƒx[ƒX‚ÌƒtƒHƒ“ƒg‚ª„§i–¾’©ƒtƒHƒ“ƒg‚ÍƒXƒ‰ƒCƒhã‚Å‚ÍŒ©‚Ã‚ç‚¢ê‡‚ª‘½‚¢‚½‚ßjB
+
+@ƒAƒ‹ƒtƒ@ƒxƒbƒg‚ÍArial‚©Helvetica‚ª„§‚³‚ê‚éB
 
 5. Ž©•ª‚Å‘ª’è‚µ‚Ä‚¢‚È‚¢ƒf[ƒ^‚ÉŠÖ‚µ‚Ä‚ÍA•K‚¸ˆø—pŒ³‚ð‘‚­
 
@@ -40,6 +44,50 @@ v‚Íƒ”ƒ@[ƒWƒ‡ƒ“‚Ì‚±‚Æ‚ÅA‹¤’˜ŽÒiãŽij‚ÉŒ©‚Ä‚à‚ç‚Á‚Ä’¼‚µ‚Ä‚¢‚Ü‚·BŽ„‚Ìê‡‚Í•½‹
 —á‚¦‚ÎAY. Jinbo et al., Macromolecules, 27 (1994) 6080. ‚È‚Ç‚Æ‚È‚éB
 igoogle scholar‚È‚Ç‚ÅŠÖ˜A‚·‚é˜_•¶‚ð’²‚×‚ÄReferences‚É‹LÚ‚³‚ê‚Ä‚¢‚é‚à‚Ì‚ð^Ž—‚ê‚Î‚æ‚¢jB
 
+******************************************************************************
+ƒXƒ‰ƒCƒh‚Ì–‡”‚Æ\¬
+
+@‘åŠw‚âŒ¤‹†Žº‚É‚à‚æ‚é‚ªAu‰‰‚Íƒpƒ[ƒ|ƒCƒ“ƒ^[‚Åì¬‚·‚éB1–‡1•ª’ö“x‚ð–ÚˆÀ‚É‚µ‚ÄA10•ªu‰‰+5•ªŽ¿‹^‚Å‚ ‚ê‚ÎA10–‡—pˆÓ‚·‚éi10•ªu‰‰‚¾‚©‚çjB
+@
+E1–‡–Ú‚Íƒ^ƒCƒgƒ‹iƒ^ƒCƒgƒ‹‚Ì‰º‚ÉŽ–¼‚ÆŠ‘®‚à‘‚«“ü‚ê‚éj
+
+E2–‡–Ú‚ÍIntroductioniŒ¤‹†‚Ì”wŒio‘¼‚Ì•¶Œ£‚Æ‚Ìˆá‚¢‚â–{–Ú“I‚Ü‚Å‚Ì–â‘è’ñ‹Npj
+ i‘O‰ñ‚©‚çˆø‚«‘±‚¢‚Ä‚¢‚éŒ¤‹†“à—e‚Ìê‡‚ÍA‚±‚ÌŒã‚É1–‡‘O‰ñ‚Ü‚Å‚ÌŒ‹‰Ê‚ðà–¾‚·‚éƒXƒ‰ƒCƒh‚ð—pˆÓ‚µ‚Ä‚¨‚­‚±‚Æ‚àl‚¦‚Ä‚¨‚«‚½‚¢j
+
+E3–‡–Ú‚ÍPurposei–Ú“Ij©‚Ü‚Æ‚ß‚âŒ‹˜_‚Æ–¾Šm‚É‘Î‰ž‚·‚é‚æ‚¤‚É‚·‚éB
+
+E4–‡–Ú‚ÍExperimentaliŽÀŒ±Žè–@EŽÀŒ±ðŒEŒvŽZŽè–@j
+
+E5–‡–Ú‚ÍŽÀŒ±Œ´—iAFM‚Æ‚©XAFS‚Æ‚©ŽÀŒ±‚Å—p‚¢‚½Žè–@‚ÌŒ´—‚ðà–¾‚·‚éj
+
+E6–‡–Ú‚ÍŽÀŒ±Œ‹‰Ê‚ÆlŽ@i¶ƒXƒyƒNƒgƒ‹‚ðŒ©‚¹‚Ä‚©‚ç‰ÁH‚µ‚½}‚ðŒ©‚¹‚éj
+ @ŽÀŒ±Œ‹‰Ê‚Í ResultsAlŽ@‚Í DiscussionAŽÀŒ±Œ‹‰Ê‚ÆlŽ@‚ÍResults and Discussion
+
+E7–‡–Ú‚ÍŽÀŒ±Œ‹‰Ê‚ÆlŽ@i¶ƒXƒyƒNƒgƒ‹‚ðŒ©‚¹‚Ä‚©‚ç‰ÁH‚µ‚½ƒXƒyƒNƒgƒ‹‚ðŒ©‚¹‚éj
+
+E8–‡–Ú‚ÍŽÀŒ±Œ‹‰Ê‚ÆlŽ@i¶ƒXƒyƒNƒgƒ‹‚ðŒ©‚¹‚Ä‚©‚ç‰ÁH‚µ‚½ƒXƒyƒNƒgƒ‹‚ðŒ©‚¹‚éj
+
+E9–‡–Ú‚ÍŽÀŒ±Œ‹‰Ê‚ÆlŽ@i¶ƒXƒyƒNƒgƒ‹‚ðŒ©‚¹‚Ä‚©‚ç‰ÁH‚µ‚½ƒXƒyƒNƒgƒ‹‚ðŒ©‚¹‚éj
+
+E10–‡–Ú‚ÍSummaryi‚Ü‚Æ‚ßj
+
+Ÿ }‚É‚æ‚Á‚Ä‚ÍA¶ƒXƒyƒNƒgƒ‹‚Æ‰ÁH‚µ‚½ƒXƒyƒNƒgƒ‹‚ªˆê‚Â‚Ì}‚ÉŽû‚Ü‚Á‚Ä‚¢‚é‚±‚Æ‚à‚ ‚éB
+
+Ÿ u‰‰‚ð‚µ‚Ä‚¢‚ÄA7•ª’ö“x‚Å—\—é‚ª–Â‚éB‚±‚ê‚ð–ÚˆÀ‚É˜b‚ði‚ßA9–‡–Ú‚Å10•ª‚ð’´‚¦‚»‚¤‚Å‚ ‚ê‚ÎA10–‡–Ú‚ðŒ©‚¹‚½Žž‚Éu‚Ü‚Æ‚ß‚Í‚±‚Ì‚æ‚¤‚É‚È‚è‚Ü‚·v‚Æ‚µ‚ÄI‚í‚ç‚¹‚éB
+
+Ÿ ƒŒ[ƒU[ƒ|ƒCƒ“ƒ^[‚ðŽw‚·ê‡‚ÍA—¼Žè‚Å˜e‚ð’÷‚ß‚Ä‚Ó‚ç•t‚©‚È‚¢—l‚É‚µA•¶Žš‚ð“Ç‚Ýã‚°‚È‚ª‚ç•¶Žš‚Ì‰º‚ð‚ä‚Á‚­‚è‚Æ‚È‚¼‚Á‚Ä‚¢‚­B}‚ðŽw‚µŽ¦‚·‚Æ‚«‚à‚ä‚Á‚­‚è‚Æ‚³‚¹A‚Ó‚ç‚Ó‚ç‚µ‚½‚èA‘‚¢ƒXƒs[ƒh‚Å‰~‚ð•`‚¢‚½‚è‚µ‚È‚¢B
+
+Ÿ ‰pŒê‚Å‚Ìu‰‰‚Ìê‡‚ÍAŠç‚ðŠÏO‚ÉŒü‚¯‚Äà–¾‚µA‚»‚ÌŒãAƒŒ[ƒU[ƒ|ƒCƒ“ƒ^[‚ÅA‚±‚Ì}‚Å‚·‚ÆŽw‚µŽ¦‚·B“Ç‚Ýã‚°‚é‰p•¶‚Ì•¶Í‚ð‹æØ‚é‚Ì‚ÍA‘O’uŽŒ‚ð“Ç‚Ýã‚°‚½Œã‚Æ‚È‚é
+
+Ÿ ŽÀŒ±‚ª‚Ç‚¤‚µ‚Ä‚ào—ˆ‚È‚­‚ÄA6–‡–Ú‚Æ7–‡–Ú—p‚µ‚©}‚ª‚È‚©‚Á‚½ê‡‚É‚ÍAŽ„‚Í—˜_ŒvŽZ‚ÌŒvŽZðŒ‚ÆŒvŽZƒ‚ƒfƒ‹‚Ì}‚ð•`‚¢‚½ƒXƒ‰ƒCƒh‚ð1–‡‚ÆA—˜_ŒvŽZ‚ÌŒ‹‰Ê‚ÆŽÀŒ±Œ‹‰Ê‚Ì”äŠr‚ð‚µ‚½}‚ÅlŽ@‚ðs‚Á‚½ƒXƒ‰ƒCƒh‚ð1–‡ì¬‚µ‚ÄA‘S10–‡‚Æ‚µ‚½B
+
+ˆÈ‰º‚ÌŠO•””­•\‚ÉŠÖ‚·‚é‹Lq‚Í•s³ŠmBŽžŠÔ‚ª‚ ‚é‚Æ‚«‚Éƒf[ƒ^‚ðŒ©’¼‚µ‚Ä‚Ý‚½‚¢B
+
+Ÿ ”ŽŽm‘OŠú‰ß’ö‚¾‚ÆA‚½‚µ‚©20•ª’ö“x‚ªu‰‰ŽžŠÔ‚Æ‚È‚éBã‹L‚Ì5–‡–Ú‚ÌƒXƒ‰ƒCƒh‚ª‚à‚¤ˆê–‡‘‚¦A6`9–‡–Ú‚ÌƒXƒ‰ƒCƒh‚à‘å‘Ì”{‚É‘‚¦‚éB
+
+Ÿ ”ŽŽmŒãŠú‰Û’ö‚¾‚ÆA‚½‚µ‚©40•ª’ö“x‚ªu‰‰ŽžŠÔ‚Æ‚È‚éB•¡”‚ÌƒZƒNƒVƒ‡ƒ“‚ÌƒAƒEƒgƒ‰ƒCƒ“‚ðŽ¦‚·ƒXƒ‰ƒCƒh‚ª1–‡ì‚ç‚êAŠeƒZƒNƒVƒ‡ƒ“‚Å 2`10–‡–Ú‚ÌƒXƒ‰ƒCƒh‚ªì‚ç‚ê‚éBÅŒã‚ÉA‚·‚×‚Ä‚Ì‚Ü‚Æ‚ß‚ªì‚ç‚ê‚éB
+
+******************************************************************************
 
 ƒOƒ‰ƒtì¬‚Ì’ˆÓ“_
 1. ”’’n‚É‰©F‚Ìƒ}[ƒN‚ÍŒ©‚¦‚É‚­‚¢‚½‚ß—p‚¢‚È‚¢B‘¼‚ÌF‚É‚·‚é
