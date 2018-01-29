@@ -1,6 +1,6 @@
-‚±‚ÌconferenceƒtƒHƒ‹ƒ_“à‚É‚ ‚é‚à‚Ì‚Í”­•\Ï‚Ý‚Ì‚à‚Ì‚Å‚·B
+‚±‚ÌconferenceƒtƒHƒ‹ƒ_“à‚É‚ ‚é‚à‚Ì‚ÍŠw‰ï‚ÅŒû‰‰”­•\Ï‚Ý‚Ì‚à‚Ì‚Å‚·B
 
-‚½‚¾‚µ‰{——‚¾‚¯‚ª‰Â”\‚Å‚·i‹¤’˜ŽÒ‚Ì‹–‰Â‚à•K—v‚È‚½‚ß—˜—p‚Í‚Å‚«‚Ü‚¹‚ñjB
+‹¤’˜ŽÒ‚Ì‹–‰Â‚à•K—v‚È‚½‚ß‰{——‚¾‚¯‚ª‰Â”\‚Å‚·i}‚â•¶Í‚È‚Ç‚ð‘S•”Á‚µ‚ÄŒ`Ž®‚âƒtƒH[ƒ}ƒbƒg‚Æ‚µ‚Ä—˜—p‚·‚é‚±‚Æ‚Í‚Å‚«‚é‚ÆŽv‚¢‚Ü‚·jB
 
 Šw‰ï—p‚ÅŒû‰‰”­•\‚·‚éê‡‚ÉA‚Ç‚Ì‚æ‚¤‚ÉƒXƒ‰ƒCƒhiŒû‰‰—p‚Ì”­•\Ž‘—¿j‚ðì‚ê‚Î‚æ‚¢‚©‚ÌŽQl‚É‚µ‚Ä‚­‚¾‚³‚¢B
 
@@ -8,3 +8,39 @@ v‚Íƒ”ƒ@[ƒWƒ‡ƒ“‚Ì‚±‚Æ‚ÅA‹¤’˜ŽÒiãŽij‚ÉŒ©‚Ä‚à‚ç‚Á‚Ä’¼‚µ‚Ä‚¢‚Ü‚·BŽ„‚Ìê‡‚Í•½‹
 ‘åŠw‰@¶‚Ì‚Æ‚«‚Í‚à‚Á‚Æ‘½‚­‚Ì‰ñ”’¼‚µ‚ª‚ ‚è‚Ü‚µ‚½B“–‘R‚È‚ª‚ç¸_‚Æ‘Ì—Í‚ÌÁ–Õ‚Í‘å‚«‚¢‚Å‚·B
 
 ÅV”Å‚Ìƒpƒ[ƒ|ƒCƒ“ƒ^i—á‚¦‚Î2013j‚ÍƒfƒBƒtƒHƒ‹ƒg‚Å]—ˆ‚Ìƒ”ƒ@[ƒWƒ‡ƒ“‚æ‚è‚à‰¡’·‚È‚Ì‚ÅA‚±‚ê‚ç‚ÌŽ‘—¿‚ðŽQl‚É’¼‚µ‚Ä‚­‚¾‚³‚¢B
+
+2012”N‚æ‚è‘O‚ÌŒû‰‰ŽŽ—¿‚à‚ ‚é‚Í‚¸‚Å‚·‚ªAŽ„‚ÌƒtƒHƒ‹ƒ_‚©‚çÁ‚¦‚Ä‚µ‚Ü‚Á‚Ä‚¨‚èAŒ©‚Â‚©‚Á‚Ä‚¢‚Ü‚¹‚ñB
+
+******************************************************************************
+
+ƒXƒ‰ƒCƒhì¬‚Ì’ˆÓ“_
+
+1. •¨——Ê‚ÍŽÎ‘Ì
+
+@ŽÎ‘Ì‚Å•\‹L‚·‚é‹L†‚Æ‚µ‚Ä‚ÍA—á‚¦‚ÎA‰·“x‚ÌTAƒGƒlƒ‹ƒM[‚ÌEAƒ[[ƒxƒbƒNŒW”‚ÌSA
+“d‹C’ïR—¦‚ÌƒÏAƒ{ƒ‹ƒcƒ}ƒ“’è”AƒLƒ…ƒŠ[‰·“x‚ÌTcA—ÕŠE‰·“x‚ÌTci
+‚±‚±‚ÅAƒ{ƒ‹ƒcƒ}ƒ“’è”‚ÌkB‚ÌB‚Í‰º•t‚«‚Å‚È‚¨‚©‚ÂB‚Í–¼‘O‚ÌƒCƒjƒVƒƒƒ‹‚È‚Ì‚Å—§‘ÌiŽÎ‘Ì‚É‚µ‚È‚¢jBTc‚Ìc‚à“¯—ljB
+
+2. ’PˆÊ‚Æ”Žš‚ÌŠÔ‚É”¼ŠpƒXƒy[ƒX
+
+@—á‚¦‚ÎA300K ¨ 300 K‚Æ‚·‚éB‘¼‚É‚àS = 250ƒÊV/K ¨ S = 250 ƒÊV/K
+
+3. ƒXƒ‰ƒCƒh‚Ì’i‘g‚Í‹ÖŽ~
+4. Œ©‚â‚·‚¢ƒXƒ‰ƒCƒhƒTƒCƒY‚ÆƒSƒVƒbƒNƒx[ƒX‚ÌƒtƒHƒ“ƒg
+
+@ƒtƒHƒ“ƒgƒTƒCƒY‚Í10 m’ö“x—£‚ê‚½êŠ‚©‚çŒ©‚¦‚é’ö“x‚É‘å‚«‚­AƒXƒgƒŒƒX‚ðŠ´‚¶‚È‚¢’ö“x‚É¬‚³‚­‚·‚éi20 ptˆÈã„§B
+‚Ç‚¤‚µ‚Ä‚à¬‚³‚­‚µ‚È‚¯‚ê‚Î‚È‚ç‚È‚¢ê‡‚Í16 pt’ö“x‚Ü‚Å‚ª„§j
+
+@–¾’©ƒtƒHƒ“ƒg‚ÍƒXƒ‰ƒCƒhã‚Å‚ÍŒ©‚Ã‚ç‚¢ê‡‚ª‘½‚¢
+
+5. Ž©•ª‚Å‘ª’è‚µ‚Ä‚¢‚È‚¢ƒf[ƒ^‚ÉŠÖ‚µ‚Ä‚ÍA•K‚¸ˆø—pŒ³‚ð‘‚­
+
+@’˜ŽÒ–¼AŽGŽ–¼AŠª†Ao”Å”N“xAƒy[ƒW
+
+—á‚¦‚ÎAY. Jinbo et al., Macromolecules, 27 (1994) 6080. ‚È‚Ç‚Æ‚È‚éB
+igoogle scholar‚È‚Ç‚ÅŠÖ˜A‚·‚é˜_•¶‚ð’²‚×‚ÄReferences‚É‹LÚ‚³‚ê‚Ä‚¢‚é‚à‚Ì‚ð^Ž—‚ê‚Î‚æ‚¢jB
+
+
+ƒOƒ‰ƒtì¬‚Ì’ˆÓ“_
+1. ”’’n‚É‰©F‚Ìƒ}[ƒN‚ÍŒ©‚¦‚É‚­‚¢‚½‚ß—p‚¢‚È‚¢B‘¼‚ÌF‚É‚·‚é
+2. ‚Ç‚Ìƒf[ƒ^‚ª‚Ç‚ÌŽŽ—¿‚Ì‚à‚Ì‚©‚ðŽ¦‚·‚½‚ß–}—á‚ð‹Lq‚·‚é
