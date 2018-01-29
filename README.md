@@ -45,7 +45,12 @@ v‚Íƒ”ƒ@[ƒWƒ‡ƒ“‚Ì‚±‚Æ‚ÅA‹¤’˜ŽÒiãŽij‚ÉŒ©‚Ä‚à‚ç‚Á‚Ä’¼‚µ‚Ä‚¢‚Ü‚·BŽ„‚Ìê‡‚Í•½‹
 —á‚¦‚ÎAY. Jinbo et al., Macromolecules, 27 (1994) 6080. ‚È‚Ç‚Æ‚È‚éB
 igoogle scholar‚È‚Ç‚ÅŠÖ˜A‚·‚é˜_•¶‚ð’²‚×‚ÄReferences‚É‹LÚ‚³‚ê‚Ä‚¢‚é‚à‚Ì‚ð^Ž—‚ê‚Î‚æ‚¢jB
 
-¦ ‘¼‚Ì•ª–ì‚Ìæ¶‚Ìl‚É‚à•ª‚©‚é‚æ‚¤‚ÈƒXƒ‰ƒCƒhì‚è‚ðS‚ª‚¯‚é‚±‚ÆI 
+¦ ‘¼‚Ì•ª–ì‚Ìæ¶‚Ìl‚É‚à•ª‚©‚é‚æ‚¤‚ÈƒXƒ‰ƒCƒhì‚è‚ðS‚ª‚¯‚éBB4iŠw•”j‚Ü‚Å‚Ì‹³‰È‘‚É‘‚¢‚Ä‚¢‚È‚¢‚æ‚¤‚È‚±‚Æ‚ÍA
+Žw“±‹³Š¯‚Æ‘Š’k‚µ‚Ä•ª‚©‚è‚â‚·‚­ŠÈŒ‰‚Éà–¾‚·‚é‚æ‚¤‚É‚·‚é‚Ì‚ª‚æ‚¢i‘åŠw‰@‚É‚È‚é‚Ææ¶•û‚à•×‹­‚·‚é“à—e‚ª‚©‚È‚èi‚ç‚ê‚Ä‚­‚é‚½‚ßjB
+‚±‚ê‚æ‚è‚æ‚è³Šm‚É‚Ç‚Ì˜b‚ð‚·‚ê‚Î‚æ‚¢‚©‚ÍŠw‰ï‚É‘½‚­oÈ‚µ‚Ä‚Ç‚Ì‚æ‚¤‚È’mŽ¯‚Ì‘O’ñ‚Å˜b‚ª‚È‚³‚ê‚Ä‚¢‚é‚©‚Å”»’f‚·‚é‚µ‚©‚È‚¢B
+
+¦ ‚ ‚éŠw‰ï‚Å‚Í‚±‚ê‚Å—Ç‚¢‚Ì‚¾‚©‚çAê–åŠO‚Ìæ¶‚ª‚ ‚Â‚Ü‚éŠw‰ï‚Å‚à“¯‚¶ƒXƒ‰ƒCƒh‚Å—Ç‚¢‚Æl‚¦‚é‚Ì‚ÍŒë‚èB
+“Á‚ÉŠO‘‚Å‚Í‘ŠŽè‚É—‰ð‚µ‚Ä–á‚¦‚é‚æ‚¤‚ÉƒXƒ‰ƒCƒh‚ðì‚éÓ”C‚ªŒû‰‰ŽÒ‚É‚ ‚é‚Æ‹³‰È‘‚É‘‚¢‚Ä‚ ‚é‚ª......B
 ******************************************************************************
 ¡ ƒXƒ‰ƒCƒh‚Ì–‡”‚Æ\¬
 ¦ “ú–{•¨—Šw‰ïA“ú–{‰ž—p•¨—Šw‰ïA“ú–{•úŽËŒõŠw‰ïA“ú–{”M“dŠw‰ïA“ú–{‹à‘®Šw‰ïA“ú–{•\–Ê‰ÈŠw‰ïŽx•”A“ú–{Œ´Žq—ÍŠw‰ïŽx•”‚È‚Ç‚Å‚Í‰º‹L‚Ì‚æ‚¤‚É‚È‚éB
@@ -57,11 +62,14 @@ v‚Íƒ”ƒ@[ƒWƒ‡ƒ“‚Ì‚±‚Æ‚ÅA‹¤’˜ŽÒiãŽij‚ÉŒ©‚Ä‚à‚ç‚Á‚Ä’¼‚µ‚Ä‚¢‚Ü‚·BŽ„‚Ìê‡‚Í•½‹
 E2–‡–Ú‚ÍIntroductioniŒ¤‹†‚Ì”wŒio‘¼‚Ì•¶Œ£‚Æ‚Ìˆá‚¢‚â–{–Ú“I‚Ü‚Å‚Ì–â‘è’ñ‹Npj
  i‘O‰ñ‚©‚çˆø‚«‘±‚¢‚Ä‚¢‚éŒ¤‹†“à—e‚Ìê‡‚ÍA‚±‚ÌŒã‚É1–‡‘O‰ñ‚Ü‚Å‚ÌŒ‹‰Ê‚ðà–¾‚·‚éƒXƒ‰ƒCƒh‚ð—pˆÓ‚µ‚Ä‚¨‚­‚±‚Æ‚àl‚¦‚Ä‚¨‚«‚½‚¢j
 
+@”wŒi‚É˜b‚Éo‚·“à—e‚Í‚±‚ê‚©‚ç˜b‚·Œã‚ÌƒXƒ‰ƒCƒh‚ÉŠ®‘S‚É‘Î‰ž‚µ‚Ä‚¢‚é‚±‚Æ‚ª•K—vB‚»‚¤‚Å‚Í‚È‚­­‚µ‚¾‚¯ŠÖŒW‚·‚é‚Æ‚¢‚¤‚±‚Æ‚Å‚ ‚é‚ÆA
+ŠÖŒW‚µ‚È‚¢•”•ª‚É‚Â‚¢‚ÄŒã‚ÌƒXƒ‰ƒCƒh‚Å‹c˜_‚·‚é‚Ì‚©‚ÆŠ¨ˆá‚¢‚³‚ê‚Ä‘å•Ï‚È‚±‚Æ‚É‚È‚éB‚±‚ê‚ª–ï‰î‚È–â‘è‚âŽ¿–â‚ð¶‚Þ‚±‚Æ‚É‚È‚éB
+
 E3–‡–Ú‚ÍPurposei–Ú“Ij©‚Ü‚Æ‚ß‚âŒ‹˜_‚Æ–¾Šm‚É‘Î‰ž‚·‚é‚æ‚¤‚É‚·‚éB
 
 E4–‡–Ú‚ÍExperimentaliŽÀŒ±Žè–@EŽÀŒ±ðŒEŒvŽZŽè–@j
 
-E5–‡–Ú‚ÍŽÀŒ±Œ´—iAFM‚Æ‚©XAFS‚Æ‚©ŽÀŒ±‚Å—p‚¢‚½Žè–@‚ÌŒ´—‚ðà–¾‚·‚éj
+E5–‡–Ú‚ÍŽÀŒ±Œ´—iXPS‚âAFMAXAFS‚È‚ÇŽÀŒ±‚Å—p‚¢‚½Žè–@‚ÌŒ´—‚ðà–¾‚·‚éj
 
 E6–‡–Ú‚ÍŽÀŒ±Œ‹‰Ê‚ÆlŽ@i¶ƒXƒyƒNƒgƒ‹‚ðŒ©‚¹‚Ä‚©‚ç‰ÁH‚µ‚½}‚ðŒ©‚¹‚éj
  @ŽÀŒ±Œ‹‰Ê‚Í ResultsAlŽ@‚Í DiscussionAŽÀŒ±Œ‹‰Ê‚ÆlŽ@‚ÍResults and Discussion
