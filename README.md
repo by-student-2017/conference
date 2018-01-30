@@ -28,6 +28,8 @@ v‚Íƒ”ƒ@[ƒWƒ‡ƒ“‚Ì‚±‚Æ‚ÅA‹¤’˜ŽÒiãŽij‚ÉŒ©‚Ä‚à‚ç‚Á‚Ä’¼‚µ‚Ä‚¢‚Ü‚·BŽ„‚Ìê‡‚Í•½‹
 
 @—á‚¦‚ÎA300K ¨ 300 K‚Æ‚·‚éB‘¼‚É‚àS = 250ƒÊV/K ¨ S = 250 ƒÊV/K
 
+@i—áŠO‚ÍŠô‚Â‚©‚ ‚Á‚Ä%‚âŠp“x‚Ì‹‚Í”¼ŠpƒXƒy[ƒX‚ð“ü‚ê‚È‚¢j
+
 3. ƒXƒ‰ƒCƒh‚Ì’i‘g‚Í‹ÖŽ~
 4. Œ©‚â‚·‚¢ƒXƒ‰ƒCƒhƒTƒCƒY‚ÆƒtƒHƒ“ƒg
 
